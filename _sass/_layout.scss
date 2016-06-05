@@ -5,6 +5,7 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    background-color: $background-color-header;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -92,8 +93,6 @@
     }
 }
 
-
-
 /**
  * Site footer
  */
@@ -162,13 +161,12 @@
     }
 }
 
-
-
 /**
  * Page content
  */
 .page-content {
     padding: $spacing-unit 0;
+    background-color: $background-color-content;
 }
 
 .page-heading {
@@ -193,8 +191,6 @@
     display: block;
     font-size: 24px;
 }
-
-
 
 /**
  * Posts
