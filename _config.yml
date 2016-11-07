@@ -7,7 +7,7 @@
 
 # Site settings
 title: Welcome to my site!
-footer_title: What to contact me? Here''s how.
+footer_title: What to contact me? Here's how.
 email: mikeyfreake@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My ramblings, thoughts, projects and playground relating to coding and software development. 
