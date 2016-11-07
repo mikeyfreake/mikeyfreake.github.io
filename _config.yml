@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Welcome to my site!
-footer_title: What to contact me? Here's how.
+title: MikeyFreake is a Geek
+footer_title: Contact me. I'm open for talking code or new tech anytime.
 email: mikeyfreake@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My ramblings, thoughts, projects and playground relating to coding and software development. 
