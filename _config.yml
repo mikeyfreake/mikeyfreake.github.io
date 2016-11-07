@@ -9,7 +9,8 @@
 title: Welcome to my site!
 email: mikeyfreake@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  My ramblings, thoughts, projects and playground relating to coding and software development.
+  My ramblings, thoughts, projects and playground relating to coding and software development. 
+  Feel free to connect with me via email and Twitter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mikeyfreake.github.io" # the base hostname & protocol for your site
 twitter_username: MaddFleaks
